@@ -18,7 +18,6 @@ This UI/UX design showcases:
 ![Home](screens/img2.png)
 ![Menu](screens/img3.png)
 ![Profile](screens/img4.png)
-![Car](screens/img5.png)
 ![Details](screens/img6.png)
 
 ## 👩‍🎨 Tools Used
